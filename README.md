@@ -27,5 +27,6 @@ The project focuses on clean separation between market data ingestion, strategy 
 ## Installation
 
 ### Requirements
-Create a `requirements.txt` file with the following contents:
+Please install requirements to run the program:
+pip install -r requirements.txt
 
